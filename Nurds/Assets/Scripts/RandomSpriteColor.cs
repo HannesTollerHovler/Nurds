@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RandomShirtColor : MonoBehaviour {
+public class RandomSpriteColor : MonoBehaviour {
 
 	public SpriteRenderer body;
 	public Color[] color;
