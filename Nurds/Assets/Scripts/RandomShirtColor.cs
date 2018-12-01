@@ -11,6 +11,6 @@ public class RandomShirtColor : MonoBehaviour {
 		int maxIndex = color.Length;
 		int randomIndex = Random.Range(0, maxIndex);
 		body.color = color[randomIndex];
-
+		
 	}
 }
